@@ -103,7 +103,7 @@ def main3():
     print (error*1.0)/500
 
 if __name__ == '__main__':
-    main1()
-    main2()
-    main3()
+    main1() #for question 18
+    main2() #for question 19
+    main3() #for question 20
 
